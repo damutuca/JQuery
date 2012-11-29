@@ -11,7 +11,8 @@
  *   http://www.gnu.org/licenses/gpl.html
  *
  * Plugin alterado por Enio Borges Ribeiro <damutuca@gmail.com>
- *
+ * Adicionado validação de CPF e CNPJ
+ * Adicionado confirmação de usuário existente
  *
  */
 
